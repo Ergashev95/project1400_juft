@@ -59,9 +59,17 @@ ul {
     color: yellow;
     font-size: 50px;
     font-weight: 700;
+    transition: .5s;
 }
 .header__text {
     color: #fff;
     font-size: 30px;
     font-weight: 700;
+    transition: .5s;
+}
+.header__title:hover {
+    transform: scale(1.4);
+}
+.header__title:hover ~ .header__text{
+    transform: scale(0);
 }
