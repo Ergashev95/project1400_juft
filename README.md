@@ -1,4 +1,4 @@
-#   Github bo'yicha test qilgan proektimiz
-##  Sz ham urinib ko'ring
-### Natijasi shunaqa
+# Proyek haqida
+## Github test qlib ko'rdik
     Hello world
+
