@@ -1,1 +1,2 @@
-# project1400_juft
+# Proyek haqida
+
